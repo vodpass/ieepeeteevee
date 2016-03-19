@@ -25,7 +25,7 @@ http://204.107.27.199/live/2707.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeb04
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    FS1 [/COLOR]
 http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
 
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    Porsche Channel [/COLOR]
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    Porsche Channel 1[/COLOR]
 mms://100automoto.tv/channel_porsche
 
 http://77.76.140.251/prgb.m3u8
