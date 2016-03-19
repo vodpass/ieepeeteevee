@@ -31,8 +31,7 @@ mms://100automoto.tv/channel_porsche
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    Red Bull Tv[/COLOR]
 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]   test[/COLOR]
-http://77.76.140.251/prgb.m3u8
+
 
 
 
