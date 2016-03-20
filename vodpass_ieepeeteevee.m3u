@@ -31,7 +31,9 @@ http://54.161.200.196/server/play/fs2ctg/4028000/prog.m3u8?anv=1454719010244%26X
 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="logo1" group-title="KIDS: IPTV",[COLOR yellow]KIDS: IPTV[/COLOR]
 
-
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]   NORM OF THE NORTH[/COLOR]
+http://89.40.71.220:8777/a5fo7v6sj7xzjz2z57uecaty52zjwi7ps64k7gvybnsd2dsq2gf5gzobf4/v.mp4
 
 
