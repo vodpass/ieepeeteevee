@@ -12,8 +12,7 @@
 #EXTINF:-0 tvg-id="id1" tvg-name="" tvg-logo="" group-title="Streams: IPTV",   PICK 
 http://204.107.27.250/live/371.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeb685be841de85ce599e2b96e8cceb1415b6bd8737e7c1981499fb94c1e60f7ed9f8986cc312a7256e22ba1a2f19a14f94742ce98a446c6775e647a3a43497fcdc124f6cebe3302ee990d54f83507d3d0869ca4d6a2f86e2589696f0471eae7ca66dbf46a8ab21ebeb7d85f6ed0861c3ad172f5d0409fa7be5f49e9cb67964672cad970072869734b24a8794bcbee8dda
 
-#EXTINF:-1,HBO1
-http://64.228.62.144:1014
+
 
 #EXTINF:-0 tvg-id="id1" tvg-name="" tvg-logo="http://www.questtv.co.uk/wp-content/themes/dni_wp_theme_quest_uk/img/quest_logo.png" group-title="Streams: IPTV",   Quest Tv  
 http://204.107.27.199/live/2707.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeb049146901bd2a448228c44195b9b21ae1705399c46770c2ff78d2535adba428b381ca49088152344dde92f6b4b3edfa4061056ccd5fee3bab351b80e044b9951c0bdccd68f47981a06975ac67509619a47c89541020b7da5009d6ac909bed453906ebbc3f828944a6d763e08b50896c395e25f13d4df5b18d20ded4eab4188d6cdf154603f4e8a32e367e05bf4c85dc
