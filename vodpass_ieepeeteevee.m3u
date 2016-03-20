@@ -38,3 +38,9 @@ http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
 http://89.40.71.220:8777/a5fo7v6sj7xzjz2z57uecaty52zjwi7ps64k7gvybnsd2dsq2gf5gzobf4/v.mp4
 
 
+#EXTINF:0,BeIN movies 1HD
+http://185.56.30.123:8082/TV4016
+
+#EXTINF:0,BeIN movies 2HD
+http://185.56.30.123:8082/TV4017
+
