@@ -21,6 +21,9 @@ http://204.107.27.199/live/2707.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe37c
 #EXTINF:-0 tvg-id="id1" tvg-name="" tvg-logo="" group-title="Streams: IPTV",   Spike TV 
 http://167.114.102.27/live/83y1RH7xipx4SW4niilLfg/1458547706/a01d4a2d79052d6b1c2c63bf2d284202.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
+#EXTINF:-0 tvg-id="id1" tvg-name="" tvg-logo="" group-title="Streams: IPTV",   Quest 
+http://204.107.27.199/live/2707.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe9105c7dc3012ac63568540b68fff5d944668cf3f43cda4caa069bc2c958b006554b74804e63fa5af10c916860995365e053c1232b3d73121524690e9f4d38357ee39ec3c1a8c0f18893054760424ba618b9ec6e217bb370768e9d4600fc654cc70924aea2283f89302443498ff951b930e37ffdd9deb46ae65055edf27f33724157c43e110e5624cf95946f69ddc4bcd
+
 #EXTINF:-1 tvg-logo="logo1" group-title="Sports: IPTV",[COLOR yellow]Sports: IPTV[/COLOR]
 
 
