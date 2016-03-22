@@ -16,8 +16,6 @@ http://204.107.27.250/live/371.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeb685
 #EXTINF:-0 tvg-id="id1" tvg-name="" tvg-logo="" group-title="Streams: IPTV", [COLOR red]    Disco Turbo [/COLOR] 
 http://iptvbox.noip.us:9998/live/atik/atik/1040.m3u8
 
-#EXTINF:-0 tvg-id="id1" tvg-name="" tvg-logo="http://www.questtv.co.uk/wp-content/themes/dni_wp_theme_quest_uk/img/quest_logo.png" group-title="Streams: IPTV",   Quest Tv  
-http://204.107.27.199/live/2707.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe37ce3a09e3e5071b17dc6dba44d166f0f76b91dfa97c6d3e63fae0dda542446fe1b0ac3655464a870d4dfe34494779d35286e85ba5e65a6cbd0614f8c66f89d7d55fdab9bae1bd7669385b441c622a21e4f20ede138ab431dc7e83aee28b1d7293873c050202736e0baecc7c755756548d6c7af05a996a724e11fd9efd20c99c15856d481b9f06966fe244c8383d8db6
 
 #EXTINF:-0 tvg-id="id1" tvg-name="" tvg-logo="" group-title="Streams: IPTV",   Spike TV 
 http://167.114.102.27/live/83y1RH7xipx4SW4niilLfg/1458547706/a01d4a2d79052d6b1c2c63bf2d284202.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
