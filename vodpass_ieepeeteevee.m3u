@@ -65,3 +65,6 @@ http://iphone-streaming.ustream.tv/ustreamVideo/15905949/streams/live/playlist.m
 http://veetle.com/index.php/hls/streamMbrfast/5408d7749bc24_/stream.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    SpongeBob (veetle) 
 http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
+
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",   test (veetle)
+rtmp://185.63.252.178:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDE2IDExOjI4OjIxIFBNJmhhc2hfdmFsdWU9SWQ4SDcvN3JScHBsRTkxbERvb2pBdz09JnZhbGlkbWludXRlcz01/cw
