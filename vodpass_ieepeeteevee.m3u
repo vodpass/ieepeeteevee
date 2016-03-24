@@ -10,11 +10,11 @@
 
 
 #EXTINF:-0 tvg-id="id1" tvg-name="" tvg-logo="" group-title="Streams: IPTV",   Quest 
-http://204.107.27.199/live/2707.high.stream/playlist.m3u8
+http://204.107.27.199/live/2707.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe8a0741560fa72683e72936eac7a402dca5c634cf7972a7b7fcfed0eca21b1ef18389637401bab2d2d99f2d1383674af288abc4b9b35c826327f361ac0cc886408094e27efdc133ddb30a3c39d96cb05badaa21dbb31172ab766a22c97dab0348b8a642ea61570a67f1e647a7194545534b06edb9bdaf104528b847e80fe4c08c76fcbca97af74b880539f02cd71d8728
 
 #EXTINF:-1 tvg-logo="logo1" group-title="Sports: IPTV",[COLOR yellow]Sports: IPTV[/COLOR]
 
-?id=0ad5aac39bb13fbe8a0741560fa72683e72936eac7a402dca5c634cf7972a7b7fcfed0eca21b1ef18389637401bab2d2d99f2d1383674af288abc4b9b35c826327f361ac0cc886408094e27efdc133ddb30a3c39d96cb05badaa21dbb31172ab766a22c97dab0348b8a642ea61570a67f1e647a7194545534b06edb9bdaf104528b847e80fe4c08c76fcbca97af74b880539f02cd71d8728
+
 
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    BT SPORT HD [/COLOR]
 http://02e4.vp9.tv/chn/btsu1/v.m3u8
