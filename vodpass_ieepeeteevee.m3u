@@ -77,39 +77,27 @@ http://tabertor.ddns.net:8000/live/salman1/bhai1/627.ts
 
 
 
-#EXTINF:-0, [COLOR green]568  [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/568.ts
-
-#EXTINF:-1,[COLOR orange]569[/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/569.ts
-
-#EXTINF:-1,[COLOR orange]570 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/570.ts
-
-#EXTINF:-1,[COLOR orange]571 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/571.ts
 
 
-#EXTINF:-1,[COLOR orange]572 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/572.ts
 
-#EXTINF:-0, [COLOR green]573  [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/573.ts
-
-#EXTINF:-1,[COLOR orange]574[/COLOR]
+#EXTINF:-1,[COLOR orange]574 [/COLOR]
 http://tabertor.ddns.net:8000/live/adnan/adnan/574.ts
 
 
+#EXTINF:-1,[COLOR orange]streams.573 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/573.ts
 
-#EXTINF:-1,[COLOR orange]575 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/575.ts
+#EXTINF:-1,[COLOR orange]streams.572 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/572.ts
 
+#EXTINF:-1,[COLOR orange]streams.571 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/571.ts
 
-#EXTINF:-1,[COLOR orange]streams test [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/590.ts
+#EXTINF:-1,[COLOR orange]streams.570 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/570.ts
 
-#EXTINF:-1,[COLOR orange]streams.test [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/591.ts
+#EXTINF:-1,[COLOR orange]streams.569 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/569.ts
 
 
 
