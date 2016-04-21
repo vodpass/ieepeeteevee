@@ -67,3 +67,13 @@ http://veetle.com/index.php/hls/streamMbrfast/5408d7749bc24_/stream.m3u8
 http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
 
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",   
+
+
+#EXTINF:-1,[COLOR orange]UK TRUE MOVIES 2 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/548.ts
+
+#EXTINF:-1,[COLOR orange]500 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/500.ts
+
+#EXTINF:-1,[COLOR orange]510 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/510.ts
