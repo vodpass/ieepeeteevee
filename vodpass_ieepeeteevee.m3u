@@ -74,11 +74,12 @@ http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
 
 
 
+#EXTINF:-1,[COLOR orange]UK TRUE MOVIES 2 
+ -http://tabertor.ddns.net:8000/live/adnan/adnan/548.ts
 
 
-
-#EXTINF:-0, UK TRUE MOVIES [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/547.ts
+#EXTINF:-0, UK TRUE MOVIES 
+http://tabertor.ddns.net:8000/live/adnan/adnan/549.ts
 
 
 
