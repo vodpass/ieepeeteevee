@@ -75,7 +75,7 @@ http://tabertor.ddns.net:8000/live/salman1/bhai1/627.m3u8
 #EXTINF:-1,STAR ts
 http://tabertor.ddns.net:8000/live/salman1/bhai1/627.ts
 
-#EXTINF:-1,[COLOR orange]567 [/COLOR]
+#EXTINF:-1,[COLOR orange]stream.history [/COLOR]
 http://tabertor.ddns.net:8000/live/adnan/adnan/567.ts
 
 #EXTINF:-0, [COLOR green]568  [/COLOR]
@@ -113,3 +113,5 @@ http://tabertor.ddns.net:8000/live/adnan/adnan/592.ts
 http://tabertor.ddns.net:8000/live/adnan/adnan/593.ts
 
 
+#EXTINF:-1,[COLOR orange]stream.animal.planet  [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/566.ts
