@@ -71,26 +71,26 @@ http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
 
 
 
-#EXTINF:-1,[COLOR orange]583 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/583.ts
+#EXTINF:-1,[COLOR orange]570 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/570.ts
 
-#EXTINF:-1,[COLOR orange]584 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/584.ts
-
-
-#EXTINF:-1,[COLOR orange]586 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/586.ts
-
-#EXTINF:-0, [COLOR green]587  [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/587.ts
-
-#EXTINF:-1,[COLOR orange]588[/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/588.ts
+#EXTINF:-1,[COLOR orange]571 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/571.ts
 
 
+#EXTINF:-1,[COLOR orange]572 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/572.ts
 
-#EXTINF:-1,[COLOR orange]591 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/590.ts
+#EXTINF:-0, [COLOR green]573  [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/573.ts
+
+#EXTINF:-1,[COLOR orange]574[/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/574.ts
+
+
+
+#EXTINF:-1,[COLOR orange]575 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/575.ts
 
 
 #EXTINF:-1,[COLOR orange]592 [/COLOR]
@@ -99,9 +99,4 @@ http://tabertor.ddns.net:8000/live/adnan/adnan/592.ts
 #EXTINF:-1,[COLOR orange]RTE News [/COLOR]
 http://tabertor.ddns.net:8000/live/adnan/adnan/593.ts
 
-#EXTINF:-1,[COLOR orange]594 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/594.ts
-
-#EXTINF:-1,[COLOR orange]595 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/595.ts
 
