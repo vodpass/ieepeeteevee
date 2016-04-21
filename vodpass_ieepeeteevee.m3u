@@ -105,8 +105,11 @@ http://tabertor.ddns.net:8000/live/adnan/adnan/574.ts
 http://tabertor.ddns.net:8000/live/adnan/adnan/575.ts
 
 
-#EXTINF:-1,[COLOR orange]592 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/592.ts
+#EXTINF:-1,[COLOR orange]streams test [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/590.ts
+
+#EXTINF:-1,[COLOR orange]streams.test [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/591.ts
 
 
 
