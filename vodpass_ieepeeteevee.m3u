@@ -69,7 +69,21 @@ http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",   
 
 
+#EXTINF:-1,[COLOR orange]565 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/565.ts
 
+#EXTINF:-1,[COLOR orange]566 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/566.ts
+
+
+#EXTINF:-1,[COLOR orange]567 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/567.ts
+
+#EXTINF:-0, [COLOR green]568  [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/568.ts
+
+#EXTINF:-1,[COLOR orange]569[/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/569.ts
 
 #EXTINF:-1,[COLOR orange]570 [/COLOR]
 http://tabertor.ddns.net:8000/live/adnan/adnan/570.ts
