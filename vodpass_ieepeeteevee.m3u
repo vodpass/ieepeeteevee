@@ -72,43 +72,42 @@ http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
 #EXTINF:-1,[COLOR orange]UK TRUE MOVIES 2 [/COLOR]
 http://tabertor.ddns.net:8000/live/adnan/adnan/548.ts
 
-#EXTINF:-1,[COLOR orange]001 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/001.ts
+#EXTINF:-1,[COLOR orange]999 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/999.ts
 
-#EXTINF:-1,[COLOR orange]100 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/100.ts
+#EXTINF:-1,[COLOR orange]601 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/601.ts
 
-#EXTINF:-1,[COLOR orange]101 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/101.ts
-
-#EXTINF:-1,[COLOR orange]102 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/102.ts
-
-#EXTINF:-1,[COLOR orange]103 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/103.ts
-
-#EXTINF:-1,[COLOR orange]104 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/104.ts
-
-#EXTINF:-1,[COLOR orange]105 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/105.ts
-
-#EXTINF:-1,[COLOR orange]106 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/106.ts
-
-#EXTINF:-1,[COLOR orange]107 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/107.ts
-
-#EXTINF:-1,[COLOR orange]108 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/108.ts
-
-#EXTINF:-1,[COLOR orange]508 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/109.ts
-
-#EXTINF:-1,[COLOR orange]110 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/110.ts
+#EXTINF:-1,[COLOR orange]602 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/602.ts
 
 
+#EXTINF:-1,[COLOR orange]603 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/603.ts
+
+#EXTINF:-1,[COLOR orange]604 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/604.ts
+
+#EXTINF:-1,[COLOR orange]605 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/605.ts
+
+#EXTINF:-1,[COLOR orange]606 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/606.ts
+
+#EXTINF:-1,[COLOR orange]607 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/607.ts
+
+#EXTINF:-1,[COLOR orange]608 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/608.ts
+
+#EXTINF:-1,[COLOR orange]609 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/609.ts
+
+#EXTINF:-1,[COLOR orange]610 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/610.ts
+
+#EXTINF:-1,[COLOR orange]700 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/700.ts
 
 
 
