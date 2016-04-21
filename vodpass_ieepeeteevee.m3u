@@ -71,36 +71,33 @@ http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
 
 
 
-
-
-
-#EXTINF:-1,[COLOR orange]UK TRUE MOVIES 2  [/COLOR]
- -http://tabertor.ddns.net:8000/live/adnan/adnan/548.ts
-
-
-#EXTINF:-0, [COLOR orange]UK TRUE MOVIES  [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/549.ts
-
-
-
-
-#EXTINF:-1,[COLOR orange]580 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/580.ts
-
-#EXTINF:-1,[COLOR orange]Gold TV [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/581.ts
-
-#EXTINF:-1,[COLOR orange]Dave TV Live [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/582.ts
-
 #EXTINF:-1,[COLOR orange]583 [/COLOR]
 http://tabertor.ddns.net:8000/live/adnan/adnan/583.ts
 
 #EXTINF:-1,[COLOR orange]584 [/COLOR]
 http://tabertor.ddns.net:8000/live/adnan/adnan/584.ts
 
-#EXTINF:-1,[COLOR orange]585 [/COLOR]
+#EXTINF:-1,[COLOR orange]Sky 2 [/COLOR]
 http://tabertor.ddns.net:8000/live/adnan/adnan/585.ts
+
+#EXTINF:-1,[COLOR orange]586 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/586.ts
+
+#EXTINF:-0, [COLOR orange]587  [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/587.ts
+
+#EXTINF:-1,[COLOR orange]588[/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/588.ts
+
+#EXTINF:-1,[COLOR orange]589 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/589.ts
+
+#EXTINF:-1,[COLOR orange]590 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/590.ts
+
+
+
+
 
 
 
