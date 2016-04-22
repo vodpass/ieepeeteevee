@@ -75,17 +75,20 @@ http://tabertor.ddns.net:8000/live/salman1/bhai1/630.ts
 
 
 
-#EXTINF:-1,STAR 29
+#EXTINF:-1,STAR 2
 http://tabertor.ddns.net:8000/live/salman1/bhai1/629.ts
 
-#EXTINF:-1,STAR 28
-http://tabertor.ddns.net:8000/live/salman1/bhai1/628.ts
+
 
 #EXTINF:-1,STAR 4
 http://tabertor.ddns.net:8000/live/salman1/bhai1/627.ts
 
 
+#EXTINF:-1,test31
+http://tabertor.ddns.net:8000/live/salman1/bhai1/631.ts
 
+#EXTINF:-1,test32
+http://tabertor.ddns.net:8000/live/salman1/bhai1/632.ts
 
 
 
