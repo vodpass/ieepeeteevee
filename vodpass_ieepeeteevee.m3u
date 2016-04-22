@@ -52,16 +52,16 @@ http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
 
 
 
-#EXTINF:-1,UK SKY SPORTS 5
-http://tabertor.ddns.net:8000/live/mudassir/mudassir/617.ts
-#EXTINF:-1,UK SKY SPORTS 4
-http://tabertor.ddns.net:8000/live/mudassir/mudassir/618.ts
-#EXTINF:-1,UK SKY SPORTS 3
-http://tabertor.ddns.net:8000/live/mudassir/mudassir/619.ts
-#EXTINF:-1,UK SKY SPORTS 2
-http://tabertor.ddns.net:8000/live/mudassir/mudassir/620.ts
-#EXTINF:-1,UK SKY SPORTS 1
-http://tabertor.ddns.net:8000/live/mudassir/mudassir/621.ts
+#EXTINF:-1,UK16
+http://iptv.am000.tv:8000/live/add17/add17/16.ts
+#EXTINF:-1,UK  22
+http://iptv.am000.tv:8000/live/add17/add17/22.ts
+#EXTINF:-1,UK 39
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/39.ts
+#EXTINF:-1,UK 550
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/550.ts
+#EXTINF:-1,UK 120
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/120.ts
 
 
 
