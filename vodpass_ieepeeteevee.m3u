@@ -53,15 +53,9 @@ http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
 
 
 #EXTINF:-1,UK16
-http://iptv.am000.tv:8000/live/add17/add17/16.ts
+http://62.210.162.88:80/live/SPORT148/122105042016/2054.ts
 #EXTINF:-1,UK  22
-http://iptv.am000.tv:8000/live/add17/add17/22.ts
-#EXTINF:-1,UK 620
-http://iptv.am000.tv:8000/live/add17/add17/620.ts
-#EXTINF:-1,UK 122
-http://iptv.am000.tv:8000/live/add17/add17/122.ts
-#EXTINF:-1,UK 550
-http://iptv.am000.tv:8000/live/add17/add17/550.ts
+http://62.210.162.88:80/live/SPORT148/122105042016/1054.ts
 
 
 
