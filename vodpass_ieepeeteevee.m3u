@@ -70,49 +70,32 @@ http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
 
 
 
-#EXTINF:-1,STAR 1
-http://tabertor.ddns.net:8000/live/salman1/bhai1/630.ts
-
-
-
-#EXTINF:-1,STAR 2
-http://tabertor.ddns.net:8000/live/salman1/bhai1/629.ts
-
-
-
-#EXTINF:-1,STAR 4
-http://tabertor.ddns.net:8000/live/salman1/bhai1/627.ts
-
-
-#EXTINF:-1,test31
-http://tabertor.ddns.net:8000/live/salman1/bhai1/631.ts
-
-#EXTINF:-1,test32
-http://tabertor.ddns.net:8000/live/salman1/bhai1/632.ts
 
 
 
 
 
-#EXTINF:-1,[COLOR orange]556 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/556.ts
 
 
-#EXTINF:-1,[COLOR orange]streams.557 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/557.ts
-
-#EXTINF:-1,[COLOR orange]streams.558 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/558.ts
-
-#EXTINF:-1,[COLOR orange]streams.559 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/559.ts
-
-#EXTINF:-1,[COLOR orange]streams.554 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/565.ts
+#EXTINF:-1,[COLOR orange]510[/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/510.ts
 
 
-#EXTINF:-1,[COLOR orange]streams.540 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/540.ts
+#EXTINF:-1,[COLOR orange]511 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/511.ts
 
 
+
+#EXTINF:-1,[COLOR orange]streams.512 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/512.ts
+
+#EXTINF:-1,[COLOR orange]streams.513 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/513.ts
+
+
+#EXTINF:-1,[COLOR orange]streams.514 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/514.ts
+
+#EXTINF:-1,[COLOR orange]streams.515 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/515.ts
 
