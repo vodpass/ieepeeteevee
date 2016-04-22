@@ -52,7 +52,19 @@ http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
 http://tabertor.ddns.net:8000/live/mudassir/mudassir/661.ts
 
 
+#EXTINF:-1,[COLOR orange]ITV 4 live [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/598.ts
 
+#EXTINF:-1,[COLOR orange]#EXTINF:-1,[COLOR orange]ITV 3 live [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/599.ts  
+
+
+
+#EXTINF:-1,[COLOR orange]ITV 2 live [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/600.ts
+
+#EXTINF:-1,[COLOR orange] ITV live [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/601.ts
 
 
 
