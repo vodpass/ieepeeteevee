@@ -77,25 +77,23 @@ http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
 
 
 
-#EXTINF:-1,[COLOR orange]560[/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/560.ts
+#EXTINF:-1,[COLOR orange]576[/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/576.ts
+
+#EXTINF:-1,[COLOR orange]577[/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/577.ts
+
+#EXTINF:-1,[COLOR orange]578[/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/578.ts
+
+#EXTINF:-1,[COLOR orange]579[/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/579.ts
+
+#EXTINF:-1,[COLOR orange]580[/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/580.ts
+
+#EXTINF:-1,[COLOR orange]581[/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/581.ts
 
 
-#EXTINF:-1,[COLOR orange]streams.t+e [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/561.ts
-
-
-
-#EXTINF:-1,[COLOR orange]streams.562 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/562.ts
-
-#EXTINF:-1,[COLOR orange]streams.id [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/563.ts
-
-
-#EXTINF:-1,[COLOR orange]streams.wild [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/564.ts
-
-#EXTINF:-1,[COLOR orange]streams.nationalgeographic [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/565.ts
 
