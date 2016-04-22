@@ -77,14 +77,7 @@ http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
 
 
 
-#EXTINF:-1,[COLOR orange]576[/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/576.ts
 
-#EXTINF:-1,[COLOR orange]577[/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/577.ts
-
-#EXTINF:-1,[COLOR orange]578[/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/578.ts
 
 #EXTINF:-1,[COLOR orange]579[/COLOR]
 http://tabertor.ddns.net:8000/live/adnan/adnan/579.ts
