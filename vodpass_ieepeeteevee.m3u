@@ -51,11 +51,11 @@ http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
 
 
 
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",   542 mud
-http://tabertor.ddns.net:8000/live/mudassir/mudassir/542.ts
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",   627 d
+http://tabertor.ddns.net:8000/live/salman1/bhai1/627.m3u8
 
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",   552 mud
-http://tabertor.ddns.net:8000/live/mudassir/mudassir/552.ts
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",   552 
+http://tabertor.ddns.net:8000/live/salman1/bhai1/552.m3u8
 
 
 
