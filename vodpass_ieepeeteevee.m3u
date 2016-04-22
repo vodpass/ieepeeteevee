@@ -51,11 +51,17 @@ http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
 
 
 
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",   100 d
-http://tabertor.ddns.net:8000/live/salman1/bhai1/100.m3u8
 
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",   220 
-http://tabertor.ddns.net:8000/live/salman1/bhai1/220.m3u8
+#EXTINF:-1,UK SKY SPORTS 5
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/617.ts
+#EXTINF:-1,UK SKY SPORTS 4
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/618.ts
+#EXTINF:-1,UK SKY SPORTS 3
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/619.ts
+#EXTINF:-1,UK SKY SPORTS 2
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/620.ts
+#EXTINF:-1,UK SKY SPORTS 1
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/621.ts
 
 
 
