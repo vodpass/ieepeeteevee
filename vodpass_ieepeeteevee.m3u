@@ -56,12 +56,12 @@ http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
 http://iptv.am000.tv:8000/live/add17/add17/16.ts
 #EXTINF:-1,UK  22
 http://iptv.am000.tv:8000/live/add17/add17/22.ts
-#EXTINF:-1,UK 39
-http://tabertor.ddns.net:8000/live/mudassir/mudassir/39.ts
+#EXTINF:-1,UK 620
+http://iptv.am000.tv:8000/live/add17/add17/620.ts
+#EXTINF:-1,UK 122
+http://iptv.am000.tv:8000/live/add17/add17/122.ts
 #EXTINF:-1,UK 550
-http://tabertor.ddns.net:8000/live/mudassir/mudassir/550.ts
-#EXTINF:-1,UK 120
-http://tabertor.ddns.net:8000/live/mudassir/mudassir/120.ts
+http://iptv.am000.tv:8000/live/add17/add17/550.ts
 
 
 
