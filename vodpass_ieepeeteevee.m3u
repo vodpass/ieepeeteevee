@@ -48,8 +48,9 @@ http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
 
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",   
 
-#EXTINF:-1,UKTRAVEL
 
+#EXTINF:0,Tvn+
+http://151.80.102.137:8000/live/karimosSat/karimos/9453.ts
 
 
 
