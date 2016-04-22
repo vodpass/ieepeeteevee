@@ -27,27 +27,7 @@ http://204.107.27.199/live/2707.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe1ce
 
 
 
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    BT SPORT HD [/COLOR]
-http://02e4.vp9.tv/chn/btsu1/v.m3u8
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    FS1 [/COLOR]
-http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
 
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]   FS2 HD (US) (English) [/COLOR]
-http://54.161.200.196/server/play/fs2ctg/4028000/prog.m3u8?anv=1454719010244%26X-Anvato-Adst-Auth=W8KwjyDBpI9uS6X%2FWRctgNk0lxu8DzS7q7Js3hIe7%2BTLVx0hIrzVqPNi6gkLQXy2
-
-
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    MLS Soccer [/COLOR]
-http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    Fox Soccer Plus [/COLOR]
-http://live-prod.fs.anvato.net/server/play/fspctg/master.m3u8
-
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]   fight SPORTS [/COLOR]
-http://118.97.183.222:1935/discover/fight/playlist.m3u8
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    Golf Channel [/COLOR]
-http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    Sky Poker [/COLOR]
-http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 
 
 
@@ -86,11 +66,7 @@ http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
 
 
 
-#EXTINF:-1,[COLOR orange]534[/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/534.ts
 
-#EXTINF:-1,[COLOR orange]535[/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/535.ts
 
 
 
