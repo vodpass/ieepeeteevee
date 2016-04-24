@@ -61,24 +61,31 @@ https://openload.co/embed/VqSA9rnuRbQ/the.big.bang.theory.921.hdtv-lol.mkv
 
 
 
-#EXTINF:-0, 60
-http://tabertor.ddns.net:8000/live/adnan/adnan/560.ts
-
-#EXTINF:-1,61
-http://tabertor.ddns.net:8000/live/adnan/adnan/561.ts
 
 #EXTINF:-1,[COLOR orange]62[/COLOR]
 http://tabertor.ddns.net:8000/live/adnan/adnan/562.ts
 
-#EXTINF:-0, 63
+#EXTINF:-0, disco.id
 http://tabertor.ddns.net:8000/live/adnan/adnan/563.ts
 
+
+#EXTINF:-0, 60
+http://tabertor.ddns.net:8000/live/adnan/adnan/570.ts
+
+#EXTINF:-1,61
+http://tabertor.ddns.net:8000/live/adnan/adnan/571.ts
+
+#EXTINF:-1,[COLOR orange]62[/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/572.ts
+
+#EXTINF:-0, 73
+http://tabertor.ddns.net:8000/live/adnan/adnan/573.ts
+
 #EXTINF:-1,[COLOR orange]64[/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/564.ts
+http://tabertor.ddns.net:8000/live/adnan/adnan/574.ts
 
-#EXTINF:-1,[COLOR orange]567[/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/567.ts
-
+#EXTINF:-1,[COLOR orange]80[/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/580.ts
 
 
 
