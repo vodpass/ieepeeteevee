@@ -10,7 +10,6 @@
 
 #EXTINF:-1 tvg-logo="logo1" group-title="Featured Movies",[COLOR blue] Featured Movies[/COLOR]
 
-#EXTINF:-1,request 
 
 
 #EXTINF:-1 tvg-logo="logo1" group-title="Entertainment: IPTV",[COLOR yellow]Entertainment: IPTV[/COLOR]
@@ -18,10 +17,6 @@
 
 
 
-http://dl.avadl.com/New2/Film/Adult%20Beginners%20%282014%29%20720p%20BrRip_AvaDL.com.mp4
-
-#EXTINF:-0 tvg-id="id1" tvg-name="" tvg-logo="" group-title="Streams: IPTV",   Quest 
-http://204.107.27.199/live/2707.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe1ce4cbf162c25d5135f8bc58a2859b15c014d1638b71de2717c0619cc362972e762fd71b19923b305d3aa86fc171c567c0f3df51dc3b145a045b9bc82ce3e268c566bb5a976594aa6b4029711c4a4bbdcac129b41660695e2e527e2f0146173d55fa9b495147116fbf078713fa993067a0dfc47d1db7f1bae02e2b5dda728f3460f71de485a58bd390297da0d13d173d
 
 #EXTINF:-1 tvg-logo="logo1" group-title="Sports: IPTV",[COLOR yellow]Sports: IPTV[/COLOR]
 
@@ -52,34 +47,10 @@ http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
 http://cdn.serieswatch.tv/2/The.Survivalist.2015.720p.WEB-DL.mkv
 
 
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",The.House.of.Magic.2013.1080p.3D
-http://dl.farsimovie.net/Movie/5/The.House.of.Magic.2013.1080p.3D.HSBS.Farsi.Dubbed.FarsiMovie.Net.mkv
-
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",A Very Harold Kumar 
-http://openload.co/embed/VqSA9rnuRbQ/the.big.bang.theory.921.hdtv-lol.mkv
-https://openload.co/embed/VqSA9rnuRbQ/the.big.bang.theory.921.hdtv-lol.mkv
 
 
 
-
-
-#EXTINF:-1,[COLOR orange]stream.Gold TV [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/581.ts
-
-#EXTINF:-1,[COLOR orange]stream.Dave TV Live [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/582.ts
-
-#EXTINF:-1,[COLOR orange]583 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/583.ts
-
-#EXTINF:-1,[COLOR orange]584 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/584.ts
-
-
-
-
-
-#EXTINF:-0,[COLOR orange]streams.turbo [/COLOR]
+#EXTINF:-0,[COLOR orange]streams.t [/COLOR]
 http://tabertor.ddns.net:8000/live/adnan/adnan/562.ts
 
 
