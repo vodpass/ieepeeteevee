@@ -77,11 +77,14 @@ http://mytring.al:8000/live/dalibor/dalibor/15.ts
 #EXTINF:-1,ts-45
 http://mytring.al:8000/live/dalibor/dalibor/25.ts
 
-#EXTINF:-1,ts-35
-http://mytring.al:8000/live/dalibor/dalibor/45.ts
+#EXTINF:-1,ts-30
+http://mytring.al:8000/live/dalibor/dalibor/30.ts
 
-#EXTINF:-1,ts-55
-http://mytring.al:8000/live/dalibor/dalibor/55.ts
+#EXTINF:-1,ts-31
+http://mytring.al:8000/live/dalibor/dalibor/31.ts
 
-#EXTINF:-1,ts-99
-http://mytring.al:8000/live/dalibor/dalibor/99.ts
+#EXTINF:-1,ts-32
+http://mytring.al:8000/live/dalibor/dalibor/32.ts
+
+#EXTINF:-1,ts-33
+http://mytring.al:8000/live/dalibor/dalibor/33.ts
