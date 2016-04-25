@@ -56,11 +56,11 @@ http://cdn.serieswatch.tv/2/The.Survivalist.2015.720p.WEB-DL.mkv
 http://62.210.162.88:80/live/SPORT163/133724042016/1836.m3u8
 
 
-#EXTINF:-1,1420
-http://hpsn-i.akamaihd.net/hls/live/207736/hplla/1420.m3u8
+#EXTINF:-1,ts
+http://www.q7t1.com:8000/live/bk9/bk9/1274.ts
 
 #EXTINF:-1,1399
-http://hpsn-i.akamaihd.net/hls/live/207736/hplla/1399.m3u8
+http://151.80.102.137:8000/live/karimosSat/karimos/9453.ts
 
 #EXTINF:-1,Sportube 1401
-http://hpsn-i.akamaihd.net/hls/live/207736/hplla/1401.m3u8
+http://mytring.al:8000/live/dalibor/dalibor/15.ts
