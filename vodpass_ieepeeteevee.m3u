@@ -59,8 +59,7 @@ http://62.210.162.88:80/live/SPORT163/133724042016/1836.m3u8
 #EXTINF:-1,f2
 http://gradina2.info:80/live/raid/raid/57.ts
 
-#EXTINF:-1,ds
-http://vs8.cdn.ott.otautv.kz:80/dtv/id50_KTR_SG--DiscoveryChannel/03/plst.m3u8
+
 
 #EXTINF:-1,A-One
 http://msk3.peers.tv/streaming/aone/16/tvrec/playlist.m3u8
@@ -88,7 +87,14 @@ http://msk3.peers.tv/streaming/euronews/16/tvrecw/playlist.m3u8
 http://vs8.cdn.ott.otautv.kz:80/dtv/id108_KTR_SG--Fox/03/plst.m3u8
 #EXTINF:-1,Fox Life
 http://vs8.cdn.ott.otautv.kz:80/dtv/id109_KTR_SG--FoxLife/03/plst.m3u8
-
+#EXTINF:-1,Nat Geo
+http://vs8.cdn.ott.otautv.kz:80/dtv/id106_KTR_SG--NationalGeographic/03/plst.m3u8
+#EXTINF:-1,Nat Geo
+http://141.101.236.12:2000/play/a00x
+#EXTINF:-1,Nat Geo Wild
+http://vs8.cdn.ott.otautv.kz:80/dtv/id77_KTR_SG--NatGeoWild/03/plst.m3u8
+#EXTINF:-1,National Geographic
+http://4.hls.bolshoe.tv/1/streaming/natgeo/tvrec/playlist.m3u8
 #EXTINF:-1,HD Media 3D
 http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
 
