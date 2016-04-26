@@ -62,12 +62,35 @@ http://gradina2.info:80/live/raid/raid/57.ts
 #EXTINF:-1,ds
 http://vs8.cdn.ott.otautv.kz:80/dtv/id50_KTR_SG--DiscoveryChannel/03/plst.m3u8
 
+#EXTINF:-1,A-One
+http://msk3.peers.tv/streaming/aone/16/tvrec/playlist.m3u8
 
-#EXTINF:-1,raid205
-http://46.175.163.130:7000/91 http://gradina2.info:80/live/raid/raid/204.ts
+#EXTINF:-1,Discovery Science
+http://4.hls.bolshoe.tv/2/streaming/discovery_science/tvrec/playlist.m3u8
 
-#EXTINF:-1,raid304
-http://46.175.163.130:7000/1101 http://gradina2.info:80/live/raid/raid/304.ts
 
-#EXTINF:-1,raid 555
-http://46.175.163.130:7000/51 http://gradina2.info:80/live/raid/raid/555.ts
+#EXTINF:-1,trinca
+http://37.59.14.193:8000/live/TRINCA/TRINCA/15.ts
+
+#EXTINF:-1,9031
+http://play.lanet.tv/live/9031.m3u8
+
+#EXTINF:-1,English Club
+http://213.81.153.241/live001/channel020_p5.stream/DVR.m3u8
+#EXTINF:-1,English Club TV
+http://188.93.94.133:80/engclub/index.m3u8
+#EXTINF:-1,English club
+http://tbs07-edge01.itdc.ge/engclub/playlist.m3u8
+#EXTINF:-1,EuroNews
+http://msk3.peers.tv/streaming/euronews/16/tvrecw/playlist.m3u8
+
+#EXTINF:-1,Fox
+http://vs8.cdn.ott.otautv.kz:80/dtv/id108_KTR_SG--Fox/03/plst.m3u8
+#EXTINF:-1,Fox Life
+http://vs8.cdn.ott.otautv.kz:80/dtv/id109_KTR_SG--FoxLife/03/plst.m3u8
+
+#EXTINF:-1,HD Media 3D
+http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
+
+#EXTINF:-1,Nickelodeon
+http://vs8.cdn.ott.otautv.kz:80/dtv/id104_KTR_SG--Nickelodeon/03/plst.m3u8
