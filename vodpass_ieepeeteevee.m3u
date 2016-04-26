@@ -57,17 +57,17 @@ http://62.210.162.88:80/live/SPORT163/133724042016/1836.m3u8
 
 
 #EXTINF:-1,raid 405
-http://46.175.163.130:7000/71 http://gradina2.info:80/live/raid/raid/404.ts
+http://46.175.163.130:7000/72 http://gradina2.info:80/live/raid/raid/404.ts
 
 #EXTINF:-1,raid
-http://46.175.163.130:7000/71 http://gradina2.info:80/live/raid/raid/104.ts
+http://46.175.163.130:7000/73 http://gradina2.info:80/live/raid/raid/104.ts
 
 
 #EXTINF:-1,raid205
-http://46.175.163.130:7000/71 http://gradina2.info:80/live/raid/raid/204.ts
+http://46.175.163.130:7000/91 http://gradina2.info:80/live/raid/raid/204.ts
 
 #EXTINF:-1,raid304
-http://46.175.163.130:7000/71 http://gradina2.info:80/live/raid/raid/304.ts
+http://46.175.163.130:7000/1101 http://gradina2.info:80/live/raid/raid/304.ts
 
 #EXTINF:-1,raid 555
-http://46.175.163.130:7000/71 http://gradina2.info:80/live/raid/raid/555.ts
+http://46.175.163.130:7000/51 http://gradina2.info:80/live/raid/raid/555.ts
