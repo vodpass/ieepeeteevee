@@ -56,11 +56,11 @@ http://cdn.serieswatch.tv/2/The.Survivalist.2015.720p.WEB-DL.mkv
 http://62.210.162.88:80/live/SPORT163/133724042016/1836.m3u8
 
 
-#EXTINF:-1,raid 405
-http://46.175.163.130:7000/72 http://gradina2.info:80/live/raid/raid/404.ts
+#EXTINF:-1,iphone1
+http://iphone-streaming.ustream.tv/uhls/22128280/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1,raid
-http://46.175.163.130:7000/73 http://gradina2.info:80/live/raid/raid/104.ts
+#EXTINF:-1,ds
+http://vs8.cdn.ott.otautv.kz:80/dtv/id50_KTR_SG--DiscoveryChannel/03/plst.m3u8
 
 
 #EXTINF:-1,raid205
