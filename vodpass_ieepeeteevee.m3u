@@ -68,22 +68,8 @@ http://4.hls.bolshoe.tv/2/streaming/discovery_science/tvrec/playlist.m3u8
 
 
 #EXTINF:-1,trinca
-http://37.59.14.193:8000/live/TRINCA/TRINCA/15.ts
+http://clientportal.link:8080/live/joNU8kTOBv/XdfjPqQvM4/1454.ts
 
-#EXTINF:-1,9031
-http://play.lanet.tv/live/9031.m3u8
-
-#EXTINF:-1,English Club
-http://213.81.153.241/live001/channel020_p5.stream/DVR.m3u8
-#EXTINF:-1,English Club TV
-http://188.93.94.133:80/engclub/index.m3u8
-
-#EXTINF:-1,test 16
-http://iphone-streaming.ustream.tv/uhls/16248101/streams/live/iphone/playlist.m3u8
-
-
-#EXTINF:-1,test280
-http://iphone-streaming.ustream.tv/uhls/22128280/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1,HD Media 3D
 http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
