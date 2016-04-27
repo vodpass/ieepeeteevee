@@ -77,12 +77,13 @@ http://play.lanet.tv/live/9031.m3u8
 http://213.81.153.241/live001/channel020_p5.stream/DVR.m3u8
 #EXTINF:-1,English Club TV
 http://188.93.94.133:80/engclub/index.m3u8
-#EXTINF:-1,English club
-http://tbs07-edge01.itdc.ge/engclub/playlist.m3u8
+
+#EXTINF:-1,test 1
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 
 
-#EXTINF:-1,test
-http://iphone-streaming.ustream.tv/uhls/22128280/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,test2
+http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/snvn/as/live/snvn_4.m3u8
 
 #EXTINF:-1,HD Media 3D
 http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
