@@ -79,26 +79,13 @@ http://213.81.153.241/live001/channel020_p5.stream/DVR.m3u8
 http://188.93.94.133:80/engclub/index.m3u8
 #EXTINF:-1,English club
 http://tbs07-edge01.itdc.ge/engclub/playlist.m3u8
-#EXTINF:-1,EuroNews
-http://msk3.peers.tv/streaming/euronews/16/tvrecw/playlist.m3u8
 
-#EXTINF:-1,Fox
-http://vs8.cdn.ott.otautv.kz:80/dtv/id108_KTR_SG--Fox/03/plst.m3u8
-#EXTINF:-1,Fox Life
-http://vs8.cdn.ott.otautv.kz:80/dtv/id109_KTR_SG--FoxLife/03/plst.m3u8
-#EXTINF:-1,Nat Geo
-http://vs8.cdn.ott.otautv.kz:80/dtv/id106_KTR_SG--NationalGeographic/03/plst.m3u8
-#EXTINF:-1,Nat Geo
-http://141.101.236.12:2000/play/a00x
-#EXTINF:-1,Nat Geo Wild
-http://vs8.cdn.ott.otautv.kz:80/dtv/id77_KTR_SG--NatGeoWild/03/plst.m3u8
-#EXTINF:-1,National Geographic
-http://4.hls.bolshoe.tv/1/streaming/natgeo/tvrec/playlist.m3u8
+
+#EXTINF:-1,test
+http://iphone-streaming.ustream.tv/uhls/22128280/streams/live/iphone/playlist.m3u8
+
 #EXTINF:-1,HD Media 3D
 http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
 
-#EXTINF:-1,Nickelodeon
-http://vs8.cdn.ott.otautv.kz:80/dtv/id104_KTR_SG--Nickelodeon/03/plst.m3u8
-
-#EXTINF:-1, testtttttttttttttttttttttttt
-http://vid.ag/bdl0wrmmgzpt.html
+#EXTINF:-1,sw
+http://cdn.usafashion.net/Dubbed/videos/mp4(720p)/Hollywood%20English%20Movies/Star_Wars_The_Force_Awakens_2015_pDvD_Rip_by_-IPagal.mp4
