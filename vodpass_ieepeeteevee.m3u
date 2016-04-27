@@ -82,8 +82,8 @@ http://188.93.94.133:80/engclub/index.m3u8
 http://iphone-streaming.ustream.tv/uhls/16248101/streams/live/iphone/playlist.m3u8
 
 
-#EXTINF:-1,test2
-http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/snvn/as/live/snvn_4.m3u8
+#EXTINF:-1,test280
+http://iphone-streaming.ustream.tv/uhls/22128280/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1,HD Media 3D
 http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
