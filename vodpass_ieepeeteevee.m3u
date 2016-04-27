@@ -67,12 +67,20 @@ http://msk3.peers.tv/streaming/aone/16/tvrec/playlist.m3u8
 http://4.hls.bolshoe.tv/2/streaming/discovery_science/tvrec/playlist.m3u8
 
 
-#EXTINF:-1,espn ID
+#EXTINF:-1,ID
 http://212.110.72.11:8080/play/a013
 
+#EXTINF:-1,ID01
+http://212.110.72.11:8080/play/a01
 
 #EXTINF:-1,HD Media 3D
 http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
 
 #EXTINF:-1,sw
 http://cdn.usafashion.net/Dubbed/videos/mp4(720p)/Hollywood%20English%20Movies/Star_Wars_The_Force_Awakens_2015_pDvD_Rip_by_-IPagal.mp4
+
+
+#EXTINF:0,MINI ULTRA
+http://212.110.72.11:8080/play/a011
+#EXTINF:0,ULTRA
+http://212.110.72.11:8080/play/a010
