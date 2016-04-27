@@ -67,8 +67,8 @@ http://msk3.peers.tv/streaming/aone/16/tvrec/playlist.m3u8
 http://4.hls.bolshoe.tv/2/streaming/discovery_science/tvrec/playlist.m3u8
 
 
-#EXTINF:-1,ttttttttt
-http://veetle.com/v/a3db17c6f4ee75859af0c0d420950582
+#EXTINF:-1,espn
+http://enterplay2-live.hls.adaptive.level3.net/espn/espn.isml/.m3u8
 
 
 #EXTINF:-1,HD Media 3D
