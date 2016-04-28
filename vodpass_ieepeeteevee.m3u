@@ -82,5 +82,18 @@ http://cdn.usafashion.net/Dubbed/videos/mp4(720p)/Hollywood%20English%20Movies/S
 
 #EXTINF:0,MINI 15
 http://212.110.72.11:8080/play/a015
-#EXTINF:0,ULTRA16
+#EXTINF:0,16
 http://212.110.72.11:8080/play/a016
+
+#EXTINF:0,MINI 17
+http://212.110.72.11:8080/play/a017
+#EXTINF:0,18
+http://212.110.72.11:8080/play/a018
+
+#EXTINF:0,MINI 19
+http://212.110.72.11:8080/play/a019
+#EXTINF:0,20
+http://212.110.72.11:8080/play/a020
+
+#EXTINF:0,dpool
+http://dl5.watchfilm.ir/Foreign.Movie/Action/Deadpool.2016/Deadpool.2016.1080p.BluRay.DTS-HD.5.1.mkv
