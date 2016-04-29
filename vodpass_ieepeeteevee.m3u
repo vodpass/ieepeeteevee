@@ -82,17 +82,17 @@ http://cdn.usafashion.net/Dubbed/videos/mp4(720p)/Hollywood%20English%20Movies/S
 
 
 
-#EXTINF:0,Sky Sports 1 HD 
-http://showsatellite.dyndns.tv:8000/live/momo/momo/229.ts
+#EXTINF:-1,UK: BT Sports Extra 4 HD 
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2827.ts
 
-#EXTINF:0,65
-http://showsatellite.dyndns.tv:8000/live/momo/momo/265.ts
+#EXTINF:0,29
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2829.ts
 
-#EXTINF:-1,test
-http://149.202.194.36:8000/live/parviz/parviz/24.ts
+#EXTINF:0,beIN SPORTS 1HD 
+http://showsatellite.dyndns.tv:8000/live/momo/momo/50.ts
 
-#EXTINF:-1,BEIN SPORT HD8
-http://ORBIT-IPTV.COM:2500/live/ddss/ddss/1051.ts 
+#EXTINF:0,beIN SPORTS 52
+http://showsatellite.dyndns.tv:8000/live/momo/momo/52.ts
 
-#EXTINF:-1,BEIN SPORT HD9
-http://ORBIT-IPTV.COM:2500/live/ddss/ddss/1050.ts #EXTINF:
+#EXTINF:-1,BEIN SPORT HD66
+http://cp.dmbshare.net:8000/live/w03/w03/4566.ts
