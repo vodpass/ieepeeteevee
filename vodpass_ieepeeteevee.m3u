@@ -63,8 +63,12 @@ http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
 #EXTINF:-1,sw
 http://cdn.usafashion.net/Dubbed/videos/mp4(720p)/Hollywood%20English%20Movies/Star_Wars_The_Force_Awakens_2015_pDvD_Rip_by_-IPagal.mp4
 
-#EXTINF:-dmbtest
-http://cp.dmbshare.net:8000/live/w03/w03/4566.ts 
+#EXTINF:-0,tv78
+http://tv78.life.ru/lifetv/720p/index.m3u8
 
-#EXTINF:-0, orange]LFCTV
+#EXTINF:-0,tv78dmbtest
+http://tv78.life.ru/lifetv/720p/index.m3u8
+
+
+#EXTINF:-0,LFCTV
 http://tabertor.ddns.net:8000/live/adnan/adnan/531.ts
