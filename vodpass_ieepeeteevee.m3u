@@ -81,18 +81,20 @@ http://cdn.usafashion.net/Dubbed/videos/mp4(720p)/Hollywood%20English%20Movies/S
 
 
 
+#EXTINF:-1,UK: BT Sports ESPN 
+http://kingwebtv.com:8090/live/essa/essa/22.ts 
 
-#EXTINF:-1,UK: BT Sports Extra 4 HD 
-http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2827.ts
+#EXTINF:-1,CTH Stadium 1 HD 
+http://kingwebtv.com:8090/live/essa/essa/616.ts
 
-#EXTINF:0,29
-http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2829.ts
+#EXTINF:-1,599
+http://kingwebtv.com:8090/live/essa/essa/599.ts
 
-#EXTINF:0,beIN SPORTS 1HD 
-http://showsatellite.dyndns.tv:8000/live/momo/momo/50.ts
+#EXTINF:-1,99
+http://kingwebtv.com:8090/live/essa/essa/99.ts
 
-#EXTINF:0,beIN SPORTS 52
-http://showsatellite.dyndns.tv:8000/live/momo/momo/52.ts
+#EXTINF:-1,685
+http://zcontrol.dyndns.org:8000/live/zerouali/10vb11c02/685.ts
 
-#EXTINF:-1,BEIN SPORT HD66
-http://cp.dmbshare.net:8000/live/w03/w03/4566.ts
+#EXTINF:-1,686
+http://zcontrol.dyndns.org:8000/live/zerouali/10vb11c02/686.ts
