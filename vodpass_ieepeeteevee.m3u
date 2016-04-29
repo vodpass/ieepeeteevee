@@ -51,27 +51,11 @@ http://cdn.serieswatch.tv/2/The.Survivalist.2015.720p.WEB-DL.mkv
 
 
 
-#EXTINF:-1,USA : skyf1
-http://50.97.49.87:1935/apqq22/vskysf1lsh/playlist.m3u8
-
-
-#EXTINF:-1,f2
-http://gradina2.info:80/live/raid/raid/57.ts
 
 
 
-#EXTINF:-1,A-One
-http://msk3.peers.tv/streaming/aone/16/tvrec/playlist.m3u8
-
-#EXTINF:-1,Discovery Science
-http://4.hls.bolshoe.tv/2/streaming/discovery_science/tvrec/playlist.m3u8
 
 
-#EXTINF:-1,ID
-http://212.110.72.11:8080/play/a013
-
-#EXTINF:-1,sky14
-http://212.110.72.11:8080/play/a014
 
 #EXTINF:-1,HD Media 3D
 http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
@@ -81,11 +65,3 @@ http://cdn.usafashion.net/Dubbed/videos/mp4(720p)/Hollywood%20English%20Movies/S
 
 
 
-#EXTINF:-1,[COLOR orange]583 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/583.ts
-
-#EXTINF:-1,[COLOR orange]584 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/584.ts
-
-#EXTINF:-1,[COLOR orange]stream.Sky 2 [/COLOR]
-http://tabertor.ddns.net:8000/live/adnan/adnan/585.ts
