@@ -80,66 +80,16 @@ http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
 http://cdn.usafashion.net/Dubbed/videos/mp4(720p)/Hollywood%20English%20Movies/Star_Wars_The_Force_Awakens_2015_pDvD_Rip_by_-IPagal.mp4
 
 
-#EXTINF:-1,beinHD_Sports_HD1
-http://37.187.24.177:80/bureau/bureau/699.ch 
 
-#EXTINF:-1,beinHD_Sports_HD2
-http://37.187.24.177:80/bureau/bureau/700.ch 
 
-#EXTINF:-1,beinHD_Sports_HD3
-http://37.187.24.177:80/bureau/bureau/701.ch 
+#EXTINF:0,Sky Sports 1 HD 
+http://showsatellite.dyndns.tv:8000/live/momo/momo/229.ts
 
-#EXTINF:-1,beinHD_Sports_HD4
-http://37.187.24.177:80/bureau/bureau/702.ch 
+#EXTINF:0,65
+http://showsatellite.dyndns.tv:8000/live/momo/momo/265.ts
 
-#EXTINF:-1,beinHD_Sports_HD5
-http://37.187.24.177:80/bureau/bureau/703.ch 
-
-#EXTINF:-1,beinHD_Sports_HD6
-http://37.187.24.177:80/bureau/bureau/704.ch 
-
-#EXTINF:-1,beinHD_Sports_HD7
-http://37.187.24.177:80/bureau/bureau/705.ch 
-
-#EXTINF:-1,beinHD_Sports_HD8
-http://37.187.24.177:80/bureau/bureau/706.ch 
-
-#EXTINF:-1,beinHD_Sports_HD9
-http://37.187.24.177:80/bureau/bureau/707.ch 
-
-#EXTINF:-1,beinHD_Sports_HD10
-http://37.187.24.177:80/bureau/bureau/708.ch 
-
-#EXTINF:-1,beinHD_Sports_HD11
-http://37.187.24.177:80/bureau/bureau/709.ch   
-#EXTM3U
-
-#EXTINF:-1,AR: BEIN News
-http://ORBIT-IPTV.COM:2500/live/ddss/ddss/2073.ts 
-
-#EXTINF:-1,BEINSPORT
-http://ORBIT-IPTV.COM:2500/live/ddss/ddss/2280.ts 
-
-#EXTINF:-1,BEIN SPORT HD1
-http://ORBIT-IPTV.COM:2500/live/ddss/ddss/1064.ts 
-
-#EXTINF:-1,BEIN SPORT HD2
-http://ORBIT-IPTV.COM:2500/live/ddss/ddss/1057.ts 
-
-#EXTINF:-1,BEIN SPORT HD3
-http://ORBIT-IPTV.COM:2500/live/ddss/ddss/1056.ts 
-
-#EXTINF:-1,BEIN SPORT HD4
-http://ORBIT-IPTV.COM:2500/live/ddss/ddss/1055.ts 
-
-#EXTINF:-1,BEIN SPORT HD5
-http://ORBIT-IPTV.COM:2500/live/ddss/ddss/1054.ts 
-
-#EXTINF:-1,BEIN SPORT HD6
-http://ORBIT-IPTV.COM:2500/live/ddss/ddss/1053.ts 
-
-#EXTINF:-1,BEIN SPORT HD7
-http://ORBIT-IPTV.COM:2500/live/ddss/ddss/1052.ts 
+#EXTINF:-1,test
+http://149.202.194.36:8000/live/parviz/parviz/24.ts
 
 #EXTINF:-1,BEIN SPORT HD8
 http://ORBIT-IPTV.COM:2500/live/ddss/ddss/1051.ts 
