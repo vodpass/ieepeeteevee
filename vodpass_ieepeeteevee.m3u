@@ -63,11 +63,30 @@ http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
 #EXTINF:-1,sw
 http://cdn.usafashion.net/Dubbed/videos/mp4(720p)/Hollywood%20English%20Movies/Star_Wars_The_Force_Awakens_2015_pDvD_Rip_by_-IPagal.mp4
 
-#EXTINF:-0,tv78
-http://tv78.life.ru/lifetv/720p/index.m3u8
+#EXTINF:-1,[COLOR orange]75[/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/575.ts
 
-#EXTINF:-0,tv78dmbtest
-http://93.189.144.154:8085/media/hls_154/rtl/index.m3u8
+#EXTINF:-1,[COLOR orange]???[/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/578.ts
+
+#EXTINF:-1,[COLOR orange]80[/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/580.ts
+
+#EXTINF:-1,[COLOR orange]86 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/586.ts
+
+#EXTINF:-1,[COLOR orange]87 [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/87.ts
+
+#EXTINF:-1,[COLOR orange]88  [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/588.ts
+
+#EXTINF:-1,[COLOR orange]stream.Gold TV [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/581.ts
+
+#EXTINF:-1,[COLOR orange]stream.Dave TV Live [/COLOR]
+http://tabertor.ddns.net:8000/live/adnan/adnan/582.ts
+
 
 
 
