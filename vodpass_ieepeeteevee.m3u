@@ -50,10 +50,11 @@ http://cdn.serieswatch.tv/2/The.Survivalist.2015.720p.WEB-DL.mkv
 #EXTINF:-1,oooo
 http://77.223.146.117:1935/live/planett/HasBahCa.m3u8
 
+#EXTINF:-1, Hunting and fishing 
+http://en356.edem.tv/iptv/FEMYYPXNKBXP6U/159/index.m3u8
 
-
-#EXTINF: 0, the Discovery Science 
-http: / /en356.edem.tv/iptv/FEMYYPXNKBXP6U/136/index.m3u8
+#EXTINF: 0, Discovery Science 
+http://en356.edem.tv/iptv/FEMYYPXNKBXP6U/136/index.m3u8
 
 
 
