@@ -63,8 +63,7 @@ http://68.71.42.179/live/livestream1/playlist.m3u8
 #EXTINF:-1,room 237
 http://198.16.68.106/gjjhoznjpmqwws4phvzdsnw67zoblchehnbshhiswpxpahegoylm2dztsnaa/video.mp4
  
-#EXTINF:-1,Dubai One
-http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
+
  
 #EXTINF:-1,QVC +
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
