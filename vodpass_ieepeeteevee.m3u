@@ -63,8 +63,8 @@ http://hpsn-i.akamaihd.net/hls/live/207736/hplla/1300.m3u8
 http://68.71.42.179/live/livestream1/playlist.m3u8
 #EXTINF:-1,room 237
 http://198.16.68.106/gjjhoznjpmqwws4phvzdsnw67zoblchehnbshhiswpxpahegoylm2dztsnaa/video.mp4
- 
-
+#EXTINF:-1,bb
+http://uk.stream.yo.tv/livehttporigin/BBCOne_360p.stream/playlist.m3u8
  
 #EXTINF:-1,QVC +
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
