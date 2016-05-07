@@ -60,8 +60,8 @@ http://hpsn-i.akamaihd.net/hls/live/207736/hplla/1300.m3u8
 #EXTINF:-0, MTV Music 
 rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream
  
-#EXTINF:-0, cnnn
-rtmp://c.cdn.livenewschat.eu/edge/ playpath=cnn_live swfUrl='http://msnbclive.eu/player.swf' swfVfy=true live=true", 'Title': 'CNN UK'
+#EXTINF:-0, cnnukk
+rtmp://c.cdn.livenewschat.eu/edge/ playpath=cnn_live swfUrl='http://msnbclive.eu/player.swf' swfVfy=true live=true
 
 #EXTINF:-0,CNN International
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/media_7419.m3u8
