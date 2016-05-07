@@ -61,8 +61,12 @@ http://hpsn-i.akamaihd.net/hls/live/207736/hplla/1300.m3u8
  
 #EXTINF:-0, cnnukk
 rtmp://c.cdn.livenewschat.eu/edge/ playpath=cnn_live swfUrl='http://msnbclive.eu/player.swf' swfVfy=true live=true
-
-
+ 
+#EXTINF:-0, ITV
+http://IPTV-VOLKAN.NET:8000/live/phill/phill/457.m3u8
+ 
+#EXTINF:-0, test550
+http://IPTV-VOLKAN.NET:8000/live/phill/phill/550.m3u8 
  
 #EXTINF:-1,hsn
 http://68.71.42.179/live/livestream1/playlist.m3u8
