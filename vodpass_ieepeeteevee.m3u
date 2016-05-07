@@ -60,6 +60,9 @@ http://hpsn-i.akamaihd.net/hls/live/207736/hplla/1300.m3u8
 #EXTINF:-0, MTV Music 
 rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream
  
+#EXTINF:-0, cnn
+rtmp://c.cdn.livenewschat.eu/edge/ playpath=cnn_live swfUrl='http://msnbclive.eu/player.swf 
+ 
 #EXTINF:-1,hsn
 http://68.71.42.179/live/livestream1/playlist.m3u8
 #EXTINF:-1,room 237
