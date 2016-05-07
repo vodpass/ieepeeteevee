@@ -65,8 +65,8 @@ rtmp://c.cdn.livenewschat.eu/edge/ playpath=cnn_live swfUrl='http://msnbclive.eu
 #EXTINF:-0, ITV
 http://IPTV-VOLKAN.NET:8000/live/phill/phill/457.m3u8
  
-#EXTINF:-0, test550
-http://IPTV-VOLKAN.NET:8000/live/phill/phill/550.m3u8 
+#EXTINF:-0, tester
+http://www.q7t1.com:8000/live/bk6/bk6/1.ts
  
 #EXTINF:-1,hsn
 http://68.71.42.179/live/livestream1/playlist.m3u8
