@@ -83,8 +83,7 @@ http://veetle.com/index.php/hls/streamMbrfast/565329fe01041_/stream.m3u8
 #EXTINF:0, Family Movies (24/7)
 http://veetle.com/index.php/hls/streamMbrFast/4d6934c2476b3_/stream.m3u8
  
-#EXTINF:0, Classics (24/7)
-http://veetle.com/index.php/hls/streamMbrFast/5408d7749bc24_/stream.m3u8 
+
 #EXTINF:-1,QVC +
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
 
