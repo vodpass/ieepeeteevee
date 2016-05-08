@@ -77,11 +77,17 @@ http://IPTV-VOLKAN.NET:8000/live/phill/phill/458.m3u8
 #EXTINF:0, All Kinds of Movies (24/7)
 http://veetle.com/index.php/hls/streamMbrfast/563dd79bc45b2_/stream.m3u8
  
-#EXTINF:0, Action Movies (24/7)
-http://veetle.com/index.php/hls/streamMbrfast/565329fe01041_/stream.m3u8
+#EXTINF:-1, CBC (English)
+rtmp://b.cdn.newschat.tv/edge pageUrl=http://www.livenewschat.eu/canada/?husham.com swfUrl=http://msnbclive.eu/player.swf playpath=cbc_live
  
-#EXTINF:0, Family Movies (24/7)
-http://veetle.com/index.php/hls/streamMbrFast/4d6934c2476b3_/stream.m3u8
+#EXTINF:-1, TVA Sport (French)
+rtmp://cp39414.live.edgefcs.net/live//event1@9756
+ 
+#EXTINF:-1, TVA Sport stream 2 (French)
+rtmp://cp39414.live.edgefcs.net:1935/live playpath=event1@9756 swfUrl=http://fpdownload.adobe.com/…/FlashMediaPlayb…/[[DYNAMIC]]/1 live=1 pageUrl=http://matelevision.blogspot.ca/2013/08/ma-tv.html
+ 
+#EXTINF:-1, SPORTSNET 360HD CANADA HD
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
  
 
 #EXTINF:-1,QVC +
