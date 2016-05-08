@@ -66,8 +66,8 @@ http://213.81.153.241/live001/channel020_p5.stream/DVR.m3u8
 
 
  
-#EXTINF:-0, cnnukk
-rtmp://c.cdn.livenewschat.eu/edge/ playpath=cnn_live swfUrl='http://msnbclive.eu/player.swf' swfVfy=true live=true
+#EXTINF:-0, wed
+http://www.theneelys.net/T/My.Big.Fat.Greek.Wedding.2.2016.1080p.HC.WEBRip.x264.AAC2.0-STUTTERSHIT.mp4
  
 #EXTINF:-1,Kiss Tv Music
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
