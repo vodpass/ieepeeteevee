@@ -61,29 +61,8 @@ http://hpsn-i.akamaihd.net/hls/live/207736/hplla/1300.m3u8
 http://37.187.24.177:80/Hamadil1xa129/Hamadil1xa129/712.ch
 
 
-#EXTINF:-1,USA-wacxtv 
-http://featur-iptv.myvnc.com:8000/live/tinkerbell/tinkerbell/954.ts 
-#EXTINF:-1,USA-Vevo 
-http://featur-iptv.myvnc.com:8000/live/tinkerbell/tinkerbell/950.ts 
-
-#EXTINF:-1,USA-TSN2 
-http://featur-iptv.myvnc.com:8000/live/tinkerbell/tinkerbell/969.ts 
-#EXTINF:-1,USA-TSN-5 
-http://featur-iptv.myvnc.com:8000/live/tinkerbell/tinkerbell/960.ts 
-#EXTINF:-1,USA-TSN-4 
-http://featur-iptv.myvnc.com:8000/live/tinkerbell/tinkerbell/961.ts 
-
-#EXTINF:-1,USA-TSN-3 
-http://featur-iptv.myvnc.com:8000/live/tinkerbell/tinkerbell/962.ts 
-
-#EXTINF:-1,USA-Newsmax 
-http://featur-iptv.myvnc.com:8000/live/tinkerbell/tinkerbell/951.ts 
-
-#EXTINF:-1,USA-Fox-Sports1 
-http://featur-iptv.myvnc.com:8000/live/tinkerbell/tinkerbell/966.ts 
-
-#EXTINF:-1,USA-CNN 
-http://featur-iptv.myvnc.com:8000/live/tinkerbell/tinkerbell/955.ts #EXTINF:
+#EXTINF:-1,English Club TV 
+http://213.81.153.241/live001/channel020_p5.stream/DVR.m3u8
 
 
  
