@@ -76,3 +76,6 @@ rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 https://youtu.be/E7qGGmwbvis
 #EXTINF:-1,test
 http://infolinkserver.com/cloud/English%20Movie/Deadpool%202016%201080p%20BluRay%20x264%20DTS-JYK.mkv
+
+#EXTINF:-1,open
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
