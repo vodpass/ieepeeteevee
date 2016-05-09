@@ -78,5 +78,7 @@ https://youtu.be/E7qGGmwbvis
 http://infolinkserver.com/cloud/English%20Movie/Deadpool%202016%201080p%20BluRay%20x264%20DTS-JYK.mkv
 #EXTINF:-1,fox
 http://vs7.cdn.ott.otautv.kz/dtv/id108_KTR_SG--Fox/03/plst.m3u8
+#EXTINF:-1,F24
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 #EXTINF:-1,music
 http://wowza1.top-ix.org/quartaretetv1/formusicweb/playlist.m3u8
