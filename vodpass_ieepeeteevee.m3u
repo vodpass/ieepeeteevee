@@ -93,6 +93,8 @@ http://vs7.cdn.ott.otautv.kz:80/dtv/id77_KTR_SG--NatGeoWild/03/plst.m3u8
 #EXTINF:-1,UK-HD 
 http://iphone-streaming.ustream.tv/uhls/20059572/streams/live/iphone/playlist.m3u8
 
-
-
+#EXTINF:-1,UK: Horror Channel
+http://cp.dmbshare.net:8000/live/whelan/whelan/2798.m3u8
+#EXTINF:-1,UK: Living
+http://cp.dmbshare.net:8000/live/whelan/whelan/2797.m3u8
 
