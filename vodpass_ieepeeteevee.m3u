@@ -95,3 +95,30 @@ http://iphone-streaming.ustream.tv/uhls/20059572/streams/live/iphone/playlist.m3
 
 #EXTINF:-0,E geo wild
 https://doc-0o-00-docs.googleusercontent.com/docs/securesc/o99352rhvfjgch8lcl1t1rreir8i4hf5/kb7pgeb99hdbvfqhhbutmcj50fvvak2e/1462903200000/12476780113630088702/11002300108849180004/0Bxuc7NvFy-NWYkpXV1QwajdJekU?e=download
+
+<p style="text-align: center;"><strong>#EXTM3U</strong><br />
+<strong>#EXTINF:0,Bein Sport HD1</strong><br />
+<strong>http://149.202.198.114:8000/play/beins1hd</strong><br />
+<strong>#EXTINF:0,Bein Sport HD2</strong><br />
+<strong>http://149.202.198.114:8000/play/beins2hd</strong><br />
+<strong>#EXTINF:0,Bein Sport HD3</strong><br />
+<strong>http://149.202.198.114:8000/play/beinshd3</strong><br />
+<strong>#EXTINF:0,Bein Sport HD4</strong><br />
+<strong>http://149.202.198.114:8000/play/beinshd4</strong><br />
+<strong>#EXTINF:0,Bein Sport HD5</strong><br />
+<strong>http://149.202.198.114:8000/play/beinshd5</strong><br />
+<strong>#EXTINF:0,Bein Sport HD6</strong><br />
+<strong>http://149.202.198.114:8000/play/beinshd6</strong><br />
+<strong>#EXTINF:0,Bein Sport HD7</strong><br />
+<strong>http://149.202.198.114:8000/play/beinshd7</strong><br />
+<strong>#EXTINF:0,Bein Sport HD8</strong><br />
+<strong>http://149.202.198.114:8000/play/beinshd8</strong><br />
+<strong>#EXTINF:0,Bein Sport HD9</strong><br />
+<strong>http://149.202.198.114:8000/play/beinshd9</strong><br />
+<strong>#EXTINF:0,Bein Sport HD10</strong><br />
+<strong>http://149.202.198.114:8000/play/beinshd10</strong><br />
+<strong>#EXTINF:0,Bein Sport HD 12</strong><br />
+<strong>http://149.202.198.114:8000/play/beinshd12</strong><br />
+<strong>#EXTINF:0,Bein Sport HD 13</strong><br />
+<strong>http://149.202.198.114:8000/play/beins13hd</strong></p>
+<hr />
