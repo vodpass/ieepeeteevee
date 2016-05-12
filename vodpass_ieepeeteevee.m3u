@@ -101,5 +101,4 @@ rtsp://rtsp-v3-spbtv.elt.spbtv.com/spbtv_v3_1/52_110.sdp
 rtsp://plb.msk.softspb.com/spbtv_v3_1/70_348.sdp
 
 
-#EXTINF:-1,STADIUM X HD 
-http://149.202.207.8:8080/cthx/sallu/index.m3u8
+
