@@ -103,5 +103,4 @@ rtsp://plb.msk.softspb.com/spbtv_v3_1/70_348.sdp
 
 #EXTINF:-1,DXTV
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8
-#EXTINF:-1,Horror network
-http://live-1112.la2.edge.filmon.com/live/382.low.stream/playlist.m3u8?id=0ad5aac39bb13fbeb603bfb91f8a9614dfd70400f33e15762ca86394609f9113c1d5720107cb75f5ebc99762fc4b9699461087a6f4a192a48cf28f9d009f6035ab069fbc0686b9ae126b45ead47a7a4e94b1b84209a1e2eb1a9cd02909de1f7865abb77dea9b79580e1c68a7b12fc8bd4d2d9a778eb2402ea0056395351fb6778f15df71bc47b68b4fa8d14914666a05b915ac5436512323
+
