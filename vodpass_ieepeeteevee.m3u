@@ -101,6 +101,5 @@ rtsp://rtsp-v3-spbtv.elt.spbtv.com/spbtv_v3_1/52_110.sdp
 rtsp://plb.msk.softspb.com/spbtv_v3_1/70_348.sdp
 
 
-#EXTINF:-1,DXTV
-http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8
+
 
