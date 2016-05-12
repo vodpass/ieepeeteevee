@@ -100,5 +100,4 @@ rtsp://rtsp-v3-spbtv.elt.spbtv.com/spbtv_v3_1/52_110.sdp
 #EXTINF:-1,World Fashion
 rtsp://plb.msk.softspb.com/spbtv_v3_1/70_348.sdp
 
-#EXTINF:-1,cnn
-http://cnnios-f.akamaihd.net/i/cnn/big/world/2016/05/11/london-intv-amanpour-sadiq-khan.cnn_513730_ios_,650,840,1240,3000,.mp4.csmil/master.m3u8
+
