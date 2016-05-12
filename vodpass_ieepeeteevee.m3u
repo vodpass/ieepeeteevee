@@ -99,8 +99,6 @@ rtsp://plb.msk.softspb.com/spbtv_v3_1/37_348.sdp
 rtsp://rtsp-v3-spbtv.elt.spbtv.com/spbtv_v3_1/52_110.sdp
 #EXTINF:-1,World Fashion
 rtsp://plb.msk.softspb.com/spbtv_v3_1/70_348.sdp
-#EXTINF:-1,HD Media 3D
-http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
 
-#EXTINF:-1, 3D:
-http://216.105.40.244/live/rotana_clip/index.m3u8
+
+
