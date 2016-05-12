@@ -93,13 +93,4 @@ http://vs7.cdn.ott.otautv.kz:80/dtv/id77_KTR_SG--NatGeoWild/03/plst.m3u8
 #EXTINF:-1,UK-HD 
 http://iphone-streaming.ustream.tv/uhls/20059572/streams/live/iphone/playlist.m3u8
 
-#EXTINF:0,E! Eng
-http://94.140.208.90:37915/udp/239.195.1.7:1234?st=M5HU8kPEHaXv5PHaX409Bw&e=1420898591
-#EXTINF:0,Sony Eng
-http://94.140.208.90:37915/udp/239.195.32.53:1234?st=M5HU8kPEHaXv5PHaX409Bw&e=1420898591
-#EXTINF:0,Sony Turbo Eng
-http://94.140.208.90:37915/udp/239.195.32.84:1234?st=M5HU8kPEHaXv5PHaX409Bw&e=1420898591
-#EXTINF:0,Universal Eng
-http://94.140.208.90:37915/udp/239.195.32.55:1234?st=M5HU8kPEHaXv5PHaX409Bw&e=1420898591
-#EXTINF:0,Extreme Sport Eng
-http://94.140.208.90:37915/udp/239.195.1.6:1234?st=M5HU8kPEHaXv5PHaX409Bw&e=1420898591
+
