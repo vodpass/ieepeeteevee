@@ -98,7 +98,7 @@ rtsp://plb.msk.softspb.com/spbtv_v3_1/37_348.sdp
 #EXTINF:-1,Euronews
 rtsp://rtsp-v3-spbtv.elt.spbtv.com/spbtv_v3_1/52_110.sdp
 #EXTINF:-1,AXNCC
-http://84.238.227.9:83/44
+http://84.238.227.9:83/99
 
 
 
