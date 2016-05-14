@@ -97,6 +97,6 @@ http://iphone-streaming.ustream.tv/uhls/20059572/streams/live/iphone/playlist.m3
 rtsp://plb.msk.softspb.com/spbtv_v3_1/37_348.sdp
 #EXTINF:-1,Euronews
 rtsp://rtsp-v3-spbtv.elt.spbtv.com/spbtv_v3_1/52_110.sdp
-
-
+#EXTINF:-0,Euronews1
+http://213.136.90.30:8000/live/sk3/sk3/13264.ts
 
