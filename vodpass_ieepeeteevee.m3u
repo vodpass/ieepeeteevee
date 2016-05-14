@@ -97,7 +97,6 @@ http://iphone-streaming.ustream.tv/uhls/20059572/streams/live/iphone/playlist.m3
 rtsp://plb.msk.softspb.com/spbtv_v3_1/37_348.sdp
 #EXTINF:-1,Euronews
 rtsp://rtsp-v3-spbtv.elt.spbtv.com/spbtv_v3_1/52_110.sdp
-#EXTINF:-1,A-Oneban
-rtmp://185.63.252.221:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNC8yMDE2IDM6NDY6MDkgQU0maGFzaF92YWx1ZT1VdGpMZll2aDdIZUNHaFFpOHRjU2RBPT0mdmFsaWRtaW51dGVzPTEw/bigbang_2zpwmtjm swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN/2021,0,0,182 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=bigbang&autoplay=true&strech=exactfit
+
 
 
