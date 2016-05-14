@@ -98,7 +98,6 @@ rtsp://plb.msk.softspb.com/spbtv_v3_1/37_348.sdp
 #EXTINF:-1,Euronews
 rtsp://rtsp-v3-spbtv.elt.spbtv.com/spbtv_v3_1/52_110.sdp
 
-#EXTINF:-0,na
-mms://72.13.93.186/colorwesterns
+
 
 
