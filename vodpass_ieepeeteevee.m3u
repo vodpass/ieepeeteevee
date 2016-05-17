@@ -100,5 +100,7 @@ rtsp://rtsp-v3-spbtv.elt.spbtv.com/spbtv_v3_1/52_110.sdp
 
 #EXTINF:-1,Eur
 rtmp://tv.hindiworldtv.com/live Playpath=7seadr swfUrl=http://webverbosity.com/iplayer.php?ch=chardika&id=mediaplayer pageUrl=http://webverbosity.com/iplayer.php?ch=worldtvpunjabi
-#EXTINF:-1,E
-mms://l3-wm1.dallas.broadcast.com/qcradwm009.broadcast.com/radioamerica
+#EXTINF:-1,Et
+http://vidzi.tv/z8z0z1hjqx00.html
+#EXTINF:-1,Etr
+http://vidzi.tv/z8z0z1hjqx00
