@@ -102,7 +102,4 @@ rtsp://rtsp-v3-spbtv.elt.spbtv.com/spbtv_v3_1/52_110.sdp
 rtmp://tv.hindiworldtv.com/live Playpath=7seadr swfUrl=http://webverbosity.com/iplayer.php?ch=chardika&id=mediaplayer pageUrl=http://webverbosity.com/iplayer.php?ch=worldtvpunjabi
 #EXTINF:-1,nod
 https://archive.org/download/night_of_the_living_dead/night_of_the_living_dead.mpeg
-#EXTINF:-1,BT Sports 1
-http://185.59.222.65:8080/MHAJbmmhhjPIAmbt1/index.m3u8
-#EXTINF:-1,BT Sports 2 
-http://185.59.222.65:8080/MHAJbmmhhjPIAmbt2/index.m3u8
+
