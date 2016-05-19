@@ -101,5 +101,5 @@ rtsp://rtsp-v3-spbtv.elt.spbtv.com/spbtv_v3_1/52_110.sdp
 #EXTINF:-1,Eur
 rtmp://tv.hindiworldtv.com/live Playpath=7seadr swfUrl=http://webverbosity.com/iplayer.php?ch=chardika&id=mediaplayer pageUrl=http://webverbosity.com/iplayer.php?ch=worldtvpunjabi
 #EXTINF:-1,nod
-https://archive.org/download/night_of_the_living_dead/night_of_the_living_dead.mpeg
+http://live.dianshibo.com/_ds/live.m3u8?id=tnt&auth=657a968f9d952bea741a8e9cfc540c76742bcd596202f9af847ff7f79cbe0ab2
 
