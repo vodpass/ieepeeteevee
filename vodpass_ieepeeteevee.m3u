@@ -100,6 +100,6 @@ rtsp://rtsp-v3-spbtv.elt.spbtv.com/spbtv_v3_1/52_110.sdp
 
 #EXTINF:-1,Eur
 rtmp://tv.hindiworldtv.com/live Playpath=7seadr swfUrl=http://webverbosity.com/iplayer.php?ch=chardika&id=mediaplayer pageUrl=http://webverbosity.com/iplayer.php?ch=worldtvpunjabi
-#EXTINF:-1,nod4
-http://live.dianshibo.com/_ds/live.m3u8?id=tnt&auth=6d30f5b5b9e4e17c99a4f247854549eced705292422a451980f223f1cf5bb00c
+#EXTINF:-1,nod46
+http://shadow.go.ro/sdwnet/getd2.php/109.236.92.136:1935/live/cc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDE2IDY6NDk6NDIgUE0maGFzaF92YWx1ZT11NFJrQmpKYlNpV29xamNoTHhheUpRPT0mdmFsaWRtaW51dGVzPTIw|Referer=http%3A%2F%2Fshadow.go.ro%2Fsdwnet%2Fchannels%2Fusa%2Fplayer%2Fcomedy-central.php&User-Agent=Mozilla%2F5.0+%28Windows+NT+5.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F40.0.2214.111+Safari%2F537.36
 
