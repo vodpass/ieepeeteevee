@@ -95,10 +95,10 @@ http://iphone-streaming.ustream.tv/uhls/20059572/streams/live/iphone/playlist.m3
 
 #EXTINF:-1,A-One
 rtsp://plb.msk.softspb.com/spbtv_v3_1/37_348.sdp
-#EXTINF:-1,Euronews dr 2
+#EXTINF:-1,Euronews sk3000
 rtmpe://80.82.70.194/live?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMi8yMDE2IDM6MDY6MjMgQU0maGFzaF92YWx1ZT1JNzFIVXdzTnZybjdDK0d4YTdWNVVBPT0mdmFsaWRtaW51dGVzPTEw playpath=lnZb7APPQ7RfiuXd1h swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf token=%XB00(nKH@#. flashver=WIN/2021,0,0,216 live=1 timeout=15 pageUrl=http://www.cast4u.tv/embed.php?live=skys3&vw=620&vh=490
 
-#EXTINF:-1,Eursk3
-rtmp://tv.hindiworldtv.com/live Playpath=7seadr swfUrl=http://webverbosity.com/iplayer.php?ch=chardika&id=mediaplayer pageUrl=http://webverbosity.com/iplayer.php?ch=worldtvpunjabi
+#EXTINF:-1,Eursk33
+rtmpe://80.82.70.194/live?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMi8yMDE2IDM6MDY6MjMgQU0maGFzaF92YWx1ZT1JNzFIVXdzTnZybjdDK0d4YTdWNVVBPT0mdmFsaWRtaW51dGVzPTEw
 
 
