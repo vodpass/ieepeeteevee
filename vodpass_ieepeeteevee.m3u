@@ -95,8 +95,8 @@ http://iphone-streaming.ustream.tv/uhls/20059572/streams/live/iphone/playlist.m3
 
 #EXTINF:-1,A-One
 rtsp://plb.msk.softspb.com/spbtv_v3_1/37_348.sdp
-#EXTINF:-1,Euronews
-rtsp://rtsp-v3-spbtv.elt.spbtv.com/spbtv_v3_1/52_110.sdp
+#EXTINF:-1,Euronews dr
+https://drive.google.com/file/d/0B_puG1sQ22RjQ3c1TW5LOTZlVEE/view?usp=drivesdk
 
 #EXTINF:-1,Eur
 rtmp://tv.hindiworldtv.com/live Playpath=7seadr swfUrl=http://webverbosity.com/iplayer.php?ch=chardika&id=mediaplayer pageUrl=http://webverbosity.com/iplayer.php?ch=worldtvpunjabi
