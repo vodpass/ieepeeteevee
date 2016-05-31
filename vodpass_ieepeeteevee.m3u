@@ -95,9 +95,8 @@ http://iphone-streaming.ustream.tv/uhls/20059572/streams/live/iphone/playlist.m3
 
 #EXTINF:-1,Dittttt
 http://127.0.0.1:9000/veetle/aHR0cDovLzM4Ljg4LjIyNC4zOTo4MC9mbHYvNTBmODRmYTE5YTlmMi90ZXN0YXQxMjM=
-#EXTINF:-1,Euronews sk3000
-rtmp://80.82.78.22/live?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNS8yMDE2IDQ6NDU6NTUgUE0maGFzaF92YWx1ZT1yREhZSU9VSTI4aVFrTUxrcXZHclV3PT0mdmFsaWRtaW51dGVzPTEw/
-
+#EXTINF:-1,Euronew
+http://www84.uptostream.com/1h0uis98652/360/0
 
 
 
