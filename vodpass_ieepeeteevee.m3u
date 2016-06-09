@@ -97,11 +97,10 @@ http://iphone-streaming.ustream.tv/uhls/20059572/streams/live/iphone/playlist.m3
 #EXTINF:-1,Ditant
 http://wwww.fireflash-delta64.co.uk/Ant-Man%202015%201080p%20BluRay%20x264%20DTS-JYK/Ant-Man%202015%201080p%20BluRay%20x264%20DTS-JYK.mkv
 
-#EXTINF:-1,hh
-#EXTINF:-1,UK-Discovery-Turbo
-http://tv2iptv.com:8000/live/wael/wael/720.ts
+
 
 #EXTINF:-1,rockytop
 rtmp://95.211.215.130/channel/4227/live
 
-
+#EXTINF:-1,UK-Discovery-Turbo
+http://tv2iptv.com:8000/live/wael/wael/720.ts
