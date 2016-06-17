@@ -100,5 +100,5 @@ http://wwww.fireflash-delta64.co.uk/Ant-Man%202015%201080p%20BluRay%20x264%20DTS
 
 
 
-#EXTINF:-1,UK-Discovery-Turbo
-http://tv2iptv.com:8000/live/wael/wael/720.ts
+#EXTINF:-1,UK-Discovery-Turbo2
+rtmpe://192.99.21.184/closing012/2501 playpath=2501 pageURL=http://www.tgun.tv/embeds2/index2.html?2501 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf live=true
