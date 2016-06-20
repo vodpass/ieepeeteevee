@@ -102,3 +102,55 @@ http://wwww.fireflash-delta64.co.uk/Ant-Man%202015%201080p%20BluRay%20x264%20DTS
 
 #EXTINF:-1,UK-Discovery-Turbo2
 rtmpe://192.99.21.184/closing012/2501 playpath=2501 pageURL=http://www.tgun.tv/embeds2/index2.html?2501 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf live=true
+#EXTINF:-1,1 on 1 Boxing TV
+rtmp://204.107.26.145:1935/live/1988.low.stream
+#EXTINF:-1,Ebru TV
+rtmp://204.107.26.252:8086/live/914.high.stream
+#EXTINF:-1,eScapes HD TV
+rtmp://204.107.26.252:8086/live/341.high.stream
+#EXTINF:-1,FilmOn Classics
+rtmp://mi2.gv.filmon.com:8086/live/206.high.stream
+#EXTINF:-1,FilmOn Jazz and Blues
+rtmp://mi2.gv.filmon.com:8086/live/530.high.stream
+#EXTINF:-1,FilmOn Martial Arts
+rtmp://mi2.gv.filmon.com:8086/live/10.high.stream
+#EXTINF:-1,FilmOn Music Legends TV
+rtmp://mi2.gv.filmon.com:8086/live/257.high.stream
+#EXTINF:-1,Ginx
+rtmp://204.107.26.252:8086/live/796.high.stream
+#EXTINF:-1,Havoc Television
+rtmp://204.107.26.252:8086/live/335.high.stream
+#EXTINF:-1,iFlix TV
+rtmp://204.107.26.252:8086/live/1991.high.stream
+#EXTINF:-1,Motorz
+rtmp://mi2.gv.filmon.com:8086/live/262.high.stream
+#EXTINF:-1,My Combat Channel
+rtmp://204.107.26.145:1935/live/295.low.stream
+#EXTINF:-1,New channel - rtmp://204.107.26.252:8086/live/403.high.stream
+rtmp://204.107.26.252:8086/live/403.high.stream
+#EXTINF:-1,New channel - rtmp://204.107.26.252:8086/live/413.high.stream
+rtmp://204.107.26.252:8086/live/413.high.stream
+#EXTINF:-1,New channel - rtmp://204.107.26.252:8086/live/514.high.stream
+rtmp://204.107.26.252:8086/live/514.high.stream
+#EXTINF:-1,Press TV
+rtmp://204.107.26.252:8086/live/905.high.stream
+#EXTINF:-1,Psychic Today
+rtmp://204.107.26.252:8086/live/1711.high.stream
+#EXTINF:-1,QVC HD
+rtmp://204.107.26.252:8086/live/413.high.stream
+#EXTINF:-1,RSquared
+rtmp://mi2.gv.filmon.com:8086/live/256.high.stream
+#EXTINF:-1,Sportskool
+rtmp://204.107.26.252:8086/live/686.high.stream
+#EXTINF:-1,Time TV
+rtmp://204.107.26.252:8086/live/414.high.stream
+#EXTINF:-1,TVC Latino
+rtmp://204.107.26.252:8086/live/213.high.stream
+#EXTINF:-1,UNRELIABLE SOURCES
+rtmp://mi2.gv.filmon.com:8086/live/239.high.stream
+#EXTINF:-1,Wealth TV
+rtmp://204.107.26.252:8086/live/403.high.stream
+#EXTINF:-1,Wine Channel TV
+rtmp://mi2.gv.filmon.com:8086/live/263.high.stream
+#EXTINF:-1,YouToo
+rtmp://204.107.26.252:8086/live/773.high.stream
