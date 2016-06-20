@@ -224,3 +224,53 @@ http://0.0.0.0:1234
 
 #EXTINF:-1,Atlantis Hotel (2sec) - Dubai
 rtmp://video4.earthcam.com:1935/fecnetwork/ playpath=6405.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/world/uae/dubai/atlantisthepalm/?cam=atlantis2 live=1
+#EXTINF:-1,San Juan (2sec) (Puerto Rico)
+http://video2.earthcam.com/fecnetwork/3698sanjuan1.flv/medien.m3u8
+
+#EXTINF:-1,Boracay Island (2sec) Cam 1 - Filipinas
+rtmp://video4.earthcam.com:1935/archives playpath=/permanent/5026/2013/04/07/1300.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/world/philippines/boracay/bolabogbay/ live=1
+
+#EXTINF:-1,Boracay Island (4sec) Cam 2 - Filipinas
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=philippinesHD1.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/world/philippines/boracay/ live=1
+
+#EXTINF:-1,Havai (4sec) Honolulu Hotel
+rtsp://66.175.76.125/axis-media/media.amp
+
+#EXTINF:-1,Tropical Pool (4sec) Hotel
+rtsp://173.197.96.221:554/axis-media/media.amp
+
+#EXTINF:-1,Elephant Park (4sec) - Trail Path (Bali) Cam 1 - Indonésia
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=4337.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/indonesia/bali/?cam=bali1 live=1
+
+#EXTINF:-1,Elephant Park (2sec) - Bathing Pool (Bali) Cam 2 - Indonésia
+rtmp://video4.earthcam.com:80/fecnetwork playpath=4338.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/indonesia/bali/?cam=bali2 live=1
+
+#EXTINF:-1,Meads Bay (2sec) Anguilla - Ilhas Virgens
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=anguilla.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
+
+#EXTINF:-1,St. Croix (3sec) - Ilhas Virgens
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=4480 swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
+
+#EXTINF:-1,St. Barthelemy (40sec) - Ilhas Virgens
+rtmp://video4.earthcam.com:80/fecnetwork playpath=3829laplage.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/frenchwestindies/stbarts/?cam=stbarts_hd live=1
+
+#EXTINF:-1,Bangkok (4sec) - Tailândia
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=5034.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/world/thailand/bangkok/ live=1
+
+#EXTINF:-1,Playa Grande (4sec) - Costa Rica
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=5358 swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
+
+#EXTINF:-1,Bayahibe bay (31sec) - República Dominicana
+rtmp://cdn-03.whatsupcams.com/live playpath=do_bayahibe01 swfUrl=http://www.whatsupcams.com/static/flowplayer/flowplayer.swf pageUrl=http://www.whatsupcams.com/en/webcams/dominican-republic/la-altagracia/bayahibe/bayahibe-bay live=1
+
+#EXTINF:-1,Tara Suites (3sec) - Aruba
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=4644 swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
+
+#EXTINF:-1,Bucuti Beach Wing (3sec) (Aruba)
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=4646 swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
+
+#EXTINF:-1,Shanghai (12sec) Cam 1 - China
+mms://64.77.226.11/cam3
+
+#EXTINF:-1,Shanghai (9sec) Cam 2 - China
+mms://64.77.226.11/cam4
