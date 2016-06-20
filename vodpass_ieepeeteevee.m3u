@@ -150,3 +150,77 @@ rtsp://158.142.178.146:554/axis-media/media.amp
 
 #EXTINF:-1,Street View (3sec) - USA
 rtsp://96.10.1.168:554/axis-media/media.amp
+#EXTINF:-1,Miami (3sec) - Downtown (Florida)(USA)
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=miamivishd5.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
+
+#EXTINF:-1,Panama City (3sec) - Beach (Florida)(USA)
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=pinewill.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
+
+#EXTINF:-1,USA-Seattle (3sec) Skyline -Washington
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=5019.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
+
+#EXTINF:-1,Sedona (3sec) - Seven Arches (Arizona)(USA)
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=5805.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
+
+#EXTINF:-1,Oklahoma (3sec) Norman city (Airport Runway) USA
+rtsp://129.15.200.67:554/axis-media/media.amp
+
+#EXTINF:-1,Sedona (4sec) - Red Rock Cam (Arizona)(USA)
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=sedonawebcam.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
+
+#EXTINF:-1,Las Vegas (3sec) - Plaza Park (New Mexico)
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=5465 swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
+
+#EXTINF:-1,San Francisco (3sec) (California)(USA)
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=6603 swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
+
+#EXTINF:-1,California (3sec) Price Center Plaza (USA)
+rtsp://132.239.12.145:554/axis-media/media.amp
+
+#EXTINF:-1,Visalia (3sec) (California)(USA)
+rtsp://205.157.152.238:554/axis-media/media.amp
+
+#EXTINF:-1,Creek (5sec) Pagosa Springs -Colorado
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=wolfcreek.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
+
+#EXTINF:-1,Santa Monica Pier (8sec) - California USA
+http://edge05.hdontap.com/hdstreams/smil:pier_abr_ppark.smil/chunklist_w480359645_b3072000.m3u8
+
+#EXTINF:-1,Venice Beach (31sec) - California
+rtmp://live1.brownrice.com:1935/westland/ playpath=westland.stream swfUrl=http://live1.brownrice.com/bri68player/jwplayer.flash.swf pageUrl=http://www.westland.net/beachcam/ live=1
+
+#EXTINF:-1,Los Angeles (3sec) - Hollywood Blvd (California)(USA)
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=lacitytours1.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
+
+#EXTINF:-1,Los Angeles (3sec) Marina Del Rey (California)(USA)
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=uscmarina.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
+
+#EXTINF:-1,Las Vegas (3sec) (Nevada)(USA)
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=eclasvegas.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
+
+#EXTINF:-1,Las Vegas (3sec) - Wedding chapel (Nevada)(USA)
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=5359 swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
+
+#EXTINF:-1,New Orleans (3sec) - Bourbon Street (Louisiana)(USA)
+rtmp://video4.earthcam.com:1935/fecnetwork playpath4280 swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
+
+#EXTINF:-1,Santa Fé (3sec) (New Mexico)(USA)
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=4831 swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
+
+#EXTINF:-1,El Paso (3sec) (Texas)(USA)
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=5307 swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
+
+#EXTINF:-1,Snyder Square (3sec) - Snyder (Texas)(USA)
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=5666 swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
+
+#EXTINF:-1,Gettysburg (3sec) - Battlefield-Cam (Pennsylvania)(USA)
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=5536 swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
+
+#EXTINF:-1,Myrtle Beach (3sec) - South Carolina(USA)
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=3635 swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
+
+#EXTINF:-1 tvg-id=""tv-logo=“” group-title=“OUTRAS WEBCAMS”,[COLOR yellow]» » OUTRAS WEBCAMS« «[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,Atlantis Hotel (2sec) - Dubai
+rtmp://video4.earthcam.com:1935/fecnetwork/ playpath=6405.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/world/uae/dubai/atlantisthepalm/?cam=atlantis2 live=1
