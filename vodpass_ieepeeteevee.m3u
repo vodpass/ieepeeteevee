@@ -272,5 +272,5 @@ rtmp://video4.earthcam.com:1935/fecnetwork playpath=4646 swfUrl=http://static.ea
 #EXTINF:-1,Shanghai (12sec) Cam 1 - China
 mms://64.77.226.11/cam3
 
-#EXTINF:-1,Shanghai (9sec) Cam 2 - China
-mms://64.77.226.11/cam4
+#EXTINF:-1,now you see me 2
+https://openload.co/stream/J_Mai3TjLbk~1466704864~2601:243::~dcUyilNJ?mime=true|Referer=https%3A%2F%2Fwww.openload.co%2Fembed%2FJ_Mai3TjLbk&Cookie=__cfduid%3Dd24d967d109bf3e8a11eda57de048b03e1466617912%3BPHPSESSID%3Dsfevnag7d8ide0tal31agmpc14%3B_olbknd%3Dw1%3B_olbknd%3Dw6%3B&User-Agent=Mozilla%2F5.0+%28Windows+NT+5.1%3B+rv%3A43.0%29+Gecko%2F20100101+Firefox%2F43.0
