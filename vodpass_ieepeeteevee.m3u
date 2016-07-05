@@ -94,11 +94,8 @@ http://vs7.cdn.ott.otautv.kz:80/dtv/id77_KTR_SG--NatGeoWild/03/plst.m3u8
 #EXTINF:-1,UK-HD 
 http://iphone-streaming.ustream.tv/uhls/20059572/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1,Ditant
-http://wwww.fireflash-delta64.co.uk/Ant-Man%202015%201080p%20BluRay%20x264%20DTS-JYK/Ant-Man%202015%201080p%20BluRay%20x264%20DTS-JYK.mkv
-
-
-
+#EXTINF:0,Cartoon Network HD (6mbps)
+udp://@225.1.2.231:30120
 
 
 #EXTINF:-1,now you see me 2
